@@ -1,0 +1,3 @@
+[submodule "fire-detection-cnn"]
+	path = fire-detection-cnn
+	url = https://github.com/tobybreckon/fire-detection-cnn.git
